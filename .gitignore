@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # Гонщик JetBrains
 *.sln.iml
+
+
+*.bin 
+*.obj
+*.csproj
